@@ -8,5 +8,5 @@ export const refs = {
   btnUp: document.getElementById('to-top-btn'),
   btnUpWrapper: document.querySelector('.btn-up'),
   like: document.querySelector('.heart'),
-  searchInput: document.querySelector('input[name=searchQuery]'),
+  searchInput: document.querySelector('.search-form-input'),
 };
